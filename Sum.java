@@ -11,6 +11,8 @@ public class Sum
 		System.out.printf("Sum of c is "+c+"\n");
 //c  print
 		System.out.printf("Sum of c is %d \n",c);
+//Sum of two integers is 30
+		
 	
 //1. .30.
 //java print
@@ -78,5 +80,7 @@ public class Sum
 		System.out.println("a"+" "+"b"+" "+"c"+"="+"c"+" "+c+"="+b+"="+a+" "+a+" "+b+" "+b);
 //c print
 		System.out.printf("a b c=c %d=%d=%d %d %d %d \n",c,b,a,a,b,b);
+
+		
 	}
 }
