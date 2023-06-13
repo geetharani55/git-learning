@@ -10,7 +10,8 @@ public class Area_Triangle
         a=b*h/2;
  // java print
         System.out.println("Area of Triangle is "+a);
- 
+
+        System.out.println("Area of Triangle is "+a);
         
     }
 }
